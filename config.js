@@ -77,9 +77,9 @@ const CONFIG = {
 		},
 		{
 			id: '5',
-			name: 'Reddit',
+			name: 'Readwise',
 			icon: 'glasses',
-			link: 'https://reddit.com',
+			link: 'https://read.readwise.io',
 		},
 		{
 			id: '6',
@@ -139,20 +139,20 @@ const CONFIG = {
 			id: '1',
 			links: [
 				{
-					name: 'Inspirational',
-					link: 'https://www.youtube.com/watch?v=dQw4w9WgXcQ',
+					name: 'Focus',
+					link: 'https://music.apple.com/br/library/playlist/p.gek1RKKuLlXY7AZ?l=en-GB',
 				},
 				{
-					name: 'Classic',
-					link: 'https://www.youtube.com/watch?v=dQw4w9WgXcQ',
+					name: 'Relax',
+					link: 'https://music.apple.com/br/album/relaxing-electronic/1714470377?l=en-GB',
 				},
 				{
 					name: 'Oldies',
-					link: 'https://www.youtube.com/watch?v=dQw4w9WgXcQ',
+					link: 'https://music.apple.com/br/playlist/paul-anka-the-songwriters/pl.c2643c1eccd44d9baa63b3a13d2bdd74?l=en-GB',
 				},
 				{
 					name: 'Rock',
-					link: 'https://www.youtube.com/watch?v=dQw4w9WgXcQ',
+					link: 'https://music.apple.com/br/playlist/80s-hard-rock-essentials/pl.1fc2abf23de54b8fa8ca8de78196f228?l=en-GB',
 				},
 			],
 		},
@@ -165,16 +165,16 @@ const CONFIG = {
 					link: 'https://www.linkedin.com',
 				},
 				{
-					name: 'Dribbble',
-					link: 'https://www.dribbble.com',
+					name: 'Excalidraw',
+					link: 'https://excalidraw.com',
 				},
 				{
-					name: 'Trello',
-					link: 'https://www.trello.com',
+					name: 'Notion',
+					link: 'https://notion.so',
 				},
 				{
-					name: 'Slack',
-					link: 'https://www.slack.com',
+					name: 'Teams',
+					link: 'https://teams.microsoft.com',
 				},
 			],
 		},
@@ -222,7 +222,7 @@ const CONFIG = {
 				},
 				{
 					name: 'Repos',
-					link: 'https://github.com/migueravila',
+					link: 'https://github.com/msouza91',
 				},
 			],
 		},
