@@ -140,7 +140,7 @@ const CONFIG = {
 			links: [
 				{
 					name: 'Focus',
-					link: 'https://music.apple.com/br/library/playlist/p.gek1RKKuLlXY7AZ?l=en-GB',
+					link: 'https://app.endel.io/player/focus',
 				},
 				{
 					name: 'Relax',
