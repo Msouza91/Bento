@@ -67,13 +67,13 @@ const CONFIG = {
 			id: '3',
 			name: 'Taskade',
 			icon: 'trello',
-			link: 'https://taskade.com',
+			link: 'https://app.todoist.com/app/today',
 		},
 		{
 			id: '4',
 			name: 'Calendar',
 			icon: 'calendar',
-			link: 'https://calendar.google.com/calendar/r',
+			link: 'https://outlook.office.com/calendar/view/workweek',
 		},
 		{
 			id: '5',
